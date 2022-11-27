@@ -1,1 +1,1 @@
-# color-text-game
+# color-game
